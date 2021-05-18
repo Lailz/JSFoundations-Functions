@@ -8,7 +8,6 @@
  */
 function greet(name) {
   // Your code here
-  console.log(`Hello ${name}`);
 }
 
 /**
@@ -22,7 +21,6 @@ function greet(name) {
  */
 function isOdd(n) {
   // Your code here
-  return n % 2 !== 0;
 }
 
 /**
