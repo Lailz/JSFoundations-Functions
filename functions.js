@@ -8,6 +8,7 @@
  */
 function greet(name) {
   // Your code here
+  console.log(`Hello ${name}`);
 }
 
 /**
@@ -36,8 +37,10 @@ function isOdd(n) {
  * oddsSmallerThan(15) -> 7
  */
 function oddsSmallerThan(n) {
-  // Your code here
+  // Your code herel
+  console.log(n);
 }
+oddsSmallerThan(4);
 
 /**
  * squareOrDouble(n):
