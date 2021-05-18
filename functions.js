@@ -17,6 +17,9 @@ function greet(name) {
  *
  * e.g.
  * isOdd(7) -> true
+ *
+ *
+ *
  * isOdd(10) -> false
  */
 function isOdd(n) {
